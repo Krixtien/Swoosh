@@ -1,4 +1,4 @@
-package com.example.nwaka.swoosh
+package com.example.nwaka.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
